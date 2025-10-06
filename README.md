@@ -1,3 +1,6 @@
+#Live API URL
+https://lead-scoring-service.vercel.app/health
+
 # Lead Scoring Service (Flask) - Ready to run
 A simple backend service that implements the assignment:
 - POST /offer        -> store offer JSON
